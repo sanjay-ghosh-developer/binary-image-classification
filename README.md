@@ -3,5 +3,5 @@ Here mnist-digits dataset is used as the input dataset and used SGDClassifier mo
 The model classifies images as 7 or not 7.
 
 Need Jupiter notebook to run, and required libraries can be installed by requirment.txt file.
-
+run binary-image-classification.ipynb file in Jupiter notebook.
 
