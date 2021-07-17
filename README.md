@@ -1,7 +1,7 @@
 # binary-image-classification
-Here mnist-digit dataset used as input dataset, and used SGDClassifier model to train images.
-model classifies images as 7 or not 7.
+Here mnist-digits dataset is used as the input dataset and used SGDClassifier model to train images.
+The model classifies images as 7 or not 7.
 
-Need jupeternote book to run, and required libraries can be in installed by requirment.txt file.
+Need Jupiter notebook to run, and required libraries can be installed by requirment.txt file.
 
 
